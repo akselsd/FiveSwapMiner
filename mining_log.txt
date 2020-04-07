@@ -1,0 +1,210 @@
+Solving block 52369493815a8d6e88d0952e8ecdf78da35e354be1cd691559f8213d8fbcaeea with root 4fb20ca1d4291ae0fedf3c78a5324d18031abefb2c5fb49207b96add154e8eb0
+Record: 642360 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 120000 (1810 / sec))
+Record: 642472 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 240000 (1807 / sec))
+Record: 642491 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 360000 (1810 / sec))
+Record: 642187 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 480000 (1810 / sec))
+Record: 642444 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 600000 (1817 / sec))
+Record: 642596 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 720000 (1841 / sec))
+Record: 642519 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 840000 (1847 / sec))
+Record: 642561 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 960000 (1844 / sec))
+Record: 642484 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 1080000 (1839 / sec))
+Record: 642649 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 1200000 (1836 / sec))
+Record: 642318 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 1320000 (1832 / sec))
+Record: 642485 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 1440000 (1830 / sec))
+Record: 642275 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 1560000 (1828 / sec))
+Record: 642495 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 1680000 (1827 / sec))
+Record: 642457 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 1800000 (1825 / sec))
+Record: 642705 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 1920000 (1824 / sec))
+Record: 642485 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 2040000 (1824 / sec))
+Record: 642416 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 2160000 (1824 / sec))
+Record: 642519 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 2280000 (1823 / sec))
+Record: 642448 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 2400000 (1824 / sec))
+Record: 642645 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 2520000 (1824 / sec))
+Record: 642475 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 2640000 (1822 / sec))
+Record: 642434 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 2760000 (1821 / sec))
+Record: 642327 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 2880000 (1821 / sec))
+Record: 642373 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 3000000 (1822 / sec))
+Record: 642370 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 3120000 (1821 / sec))
+Record: 642409 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 3240000 (1820 / sec))
+Record: 642692 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 3360000 (1820 / sec))
+Record: 642536 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 3480000 (1819 / sec))
+Record: 642379 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 3600000 (1819 / sec))
+Record: 642499 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 3720000 (1818 / sec))
+Record: 642747 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 3840000 (1818 / sec))
+Record: 642512 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 3960000 (1819 / sec))
+Record: 642398 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 4080000 (1819 / sec))
+Record: 642425 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 4200000 (1819 / sec))
+Record: 642694 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 4320000 (1823 / sec))
+Record: 642536 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 4440000 (1827 / sec))
+Record: 642375 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 4560000 (1831 / sec))
+Record: 642710 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 4680000 (1835 / sec))
+Record: 642535 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 4800000 (1839 / sec))
+Record: 642305 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 4920000 (1842 / sec))
+Record: 642399 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 5040000 (1845 / sec))
+Record: 642595 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 5160000 (1848 / sec))
+Record: 642386 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 5280000 (1850 / sec))
+Record: 642599 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 5400000 (1851 / sec))
+Record: 642405 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 5520000 (1851 / sec))
+Record: 642357 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 5640000 (1854 / sec))
+Record: 642459 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 5760000 (1856 / sec))
+Record: 642405 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 5880000 (1859 / sec))
+Record: 642270 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 6000000 (1861 / sec))
+Record: 642304 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 6120000 (1864 / sec))
+Record: 642392 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 6240000 (1866 / sec))
+Record: 642701 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 6360000 (1868 / sec))
+Record: 642343 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 6480000 (1870 / sec))
+Record: 642424 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 6600000 (1872 / sec))
+Record: 642513 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 6720000 (1874 / sec))
+Record: 642426 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 6840000 (1876 / sec))
+Record: 642609 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 6960000 (1878 / sec))
+Record: 642579 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 7080000 (1880 / sec))
+Record: 642333 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 7200000 (1881 / sec))
+Record: 642626 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 7320000 (1883 / sec))
+Record: 642418 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 7440000 (1885 / sec))
+Record: 642496 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 7560000 (1886 / sec))
+Record: 642436 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 7680000 (1888 / sec))
+Record: 642359 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 7800000 (1889 / sec))
+Record: 642618 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 7920000 (1891 / sec))
+Record: 642446 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 8040000 (1892 / sec))
+Record: 642692 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 8160000 (1893 / sec))
+Record: 642668 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 8280000 (1895 / sec))
+Record: 642517 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 8400000 (1896 / sec))
+Record: 642265 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 8520000 (1897 / sec))
+Record: 642538 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 8640000 (1898 / sec))
+Record: 642413 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 8760000 (1900 / sec))
+Record: 642946 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 8880000 (1901 / sec))
+Record: 642347 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 9000000 (1902 / sec))
+Record: 642321 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 9120000 (1903 / sec))
+Record: 642403 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 9240000 (1904 / sec))
+Record: 642546 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 9360000 (1905 / sec))
+Record: 642320 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 9480000 (1906 / sec))
+Record: 642833 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 9600000 (1907 / sec))
+Record: 642541 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 9720000 (1908 / sec))
+Record: 642472 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 9840000 (1908 / sec))
+Record: 642605 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 9960000 (1908 / sec))
+Record: 642620 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 10080000 (1908 / sec))
+Record: 642290 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 10200000 (1908 / sec))
+Record: 642547 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 10320000 (1906 / sec))
+Record: 642837 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 10440000 (1905 / sec))
+Record: 642782 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 10560000 (1903 / sec))
+Record: 642604 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 10680000 (1903 / sec))
+Record: 642567 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 10800000 (1903 / sec))
+Record: 642468 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 10920000 (1902 / sec))
+Record: 642327 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 11040000 (1900 / sec))
+Record: 642501 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 11160000 (1900 / sec))
+Record: 642322 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 11280000 (1898 / sec))
+Record: 642438 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 11400000 (1899 / sec))
+Record: 642296 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 11520000 (1899 / sec))
+Record: 642570 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 11640000 (1900 / sec))
+Record: 642419 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 11760000 (1900 / sec))
+Record: 642447 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 11880000 (1900 / sec))
+Record: 642318 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 12000000 (1900 / sec))
+Record: 642446 after 120000 nonces tried. Current difficulty: 643000
+Total nonces tried: 12120000 (1901 / sec))
+Found block after 51252 tries
+Solved!
+{'version': 0, 'root': '4fb20ca1d4291ae0fedf3c78a5324d18031abefb2c5fb49207b96add154e8eb0', 'parentid': '52369493815a8d6e88d0952e8ecdf78da35e354be1cd691559f8213d8fbcaeea', 'timestamp': 1586274736358464512, 'difficulty': 643000, 'nonce': 11470185450165433631, 'hash': 'fdc509e3d5c0d13aa4a2fe3d6bd3b61f07e43272d3b1c7668a03da527150ec02'}
+Sending block to server...
+{"header": {"version": 0, "root": "4fb20ca1d4291ae0fedf3c78a5324d18031abefb2c5fb49207b96add154e8eb0", "parentid": "52369493815a8d6e88d0952e8ecdf78da35e354be1cd691559f8213d8fbcaeea", "timestamp": 1586274736358464512, "difficulty": 643000, "nonce": 11470185450165433631, "hash": "fdc509e3d5c0d13aa4a2fe3d6bd3b61f07e43272d3b1c7668a03da527150ec02"}, "block": "Akselsd"}
+<Response [200]>
+success
